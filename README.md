@@ -1,2 +1,2 @@
 # FrontStaticPages
-The Wisco Mall is a statid shopping mall webpage created by HTML and CSS
+The Wisco Mall is a static shopping mall webpage created by HTML and CSS
